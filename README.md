@@ -1,1 +1,1 @@
-# NodeJS-API-TypeScipt-BlogApp
+# NodeJS-API-TypeScript-BlogApp
