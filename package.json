@@ -36,6 +36,6 @@
   "_moduleAliases": {
     "@/resources": "dist/resources",
     "@/utils": "dist/utils",
-    "@/middleware": "dist/middleware"
+    "@/middleware": "dist/middlewares"
   }
 }
